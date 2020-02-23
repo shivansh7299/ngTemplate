@@ -1,0 +1,14 @@
+
+  "styles": [
+    "node_modules/ng-template-shivansh/assets/css/main.css",
+    "src/styles.css"
+  ],
+  "scripts": [
+    "node_modules/ng-template-shivansh/assets/js/jquery.min.js",
+    "node_modules/ng-template-shivansh/assets/js/browser.min.js",
+    "node_modules/ng-template-shivansh/assets/js/breakpoints.min.js",
+    "node_modules/ng-template-shivansh/assets/js/util.js",
+    "node_modules/ng-template-shivansh/assets/js/main.js",
+    "node_modules/ng-template-shivansh/init.js"
+  ]
+

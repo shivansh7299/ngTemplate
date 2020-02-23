@@ -1,0 +1,23 @@
+{
+  "name": "ng-template-shivansh",
+  "version": "1.1.0",
+  "description": "this is dummy them for ng",
+  "main": "app.component.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivansh7299/ngTemplate.git"
+  },
+  "keywords": [
+    "shiv",
+    "ngTemp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivansh7299/ngTemplate/issues"
+  },
+  "homepage": "https://github.com/shivansh7299/ngTemplate#readme"
+}
